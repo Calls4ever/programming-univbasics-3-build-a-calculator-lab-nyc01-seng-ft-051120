@@ -19,5 +19,5 @@ reminder=num1%num2
 end
 
 def square_root(num)
-
+root=Math.square_root(num)
 end
